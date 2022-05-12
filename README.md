@@ -2,7 +2,7 @@
 Este projeto foi feito em Java 11+ mediante a um desafio técnico apresentado por uma consultoria. A ideia é testar a lógica, forma de programar, padrões de código, design patterns, clean code e etc.
 <hr>
 
-# DESAFIO:
+# DESAFIO: 
 ## Contexto
 <p>Uma linguagem antiga, que parece ser um derivado próximo do inglês, foi descoberta recentemente por pesquisadores. Um grupo dos pesquisadores requer um programa para traduzir o inglês para o texto antigo. O desafio é escrever um simples programa para realizar a tradução básica do inglês para a língua estrangeira.</p>
 
